@@ -27,6 +27,18 @@
     <ClInclude Include="LinkedLists.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="BitsManipulation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StackAndQueues.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphsAndTrees.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Moderate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -39,6 +51,18 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="LinkedLists.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BitsManipulation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StacksAndQueues.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphsAndTrees.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Moderate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -4,7 +4,11 @@
 #include "stdafx.h"
 #include "ArraysAndStrings.h"
 #include "LinkedLists.h"
+#include "BitsManipulation.h"
 #include <iostream>
+#include "StackAndQueues.h"
+#include "GraphsAndTrees.h"
+#include "Moderate.h"
 int main()
 {
 	//----------Arrays and strings----------
@@ -37,8 +41,41 @@ int main()
 	//taskEight();
 
 	//----------Linked Lists----------
-	linkedLists::test1();
+	//linkedLists::test1();
+	//linkedLists::taskTwo();
+	//linkedLists::taskTwoRecursive();
+	//linkedLists::taskThree();
+	//linkedLists::taskFour();
+	//linkedLists::taskFive();
+	//linkedLists::taskSix();
+	//linkedLists::taskSeven();
 
+	//------------------Stacks and Queues------------------
+	//stackAndQueues::test();
+	//stackAndQueues::taskOne();
+	//stackAndQueues::taskTwo();
+	//stackAndQueues::taskThree();
+	//stackAndQueues::taskFour();
+	//stackAndQueues::taskFive();
+	//stackAndQueues::taskSix();
+	//stackAndQueues::taskSeven();
+
+	//------------------Graphs and trees---------------------
+	//graphsAndTrees::test();
+	//graphsAndTrees::taskOne();
+	//graphsAndTrees::taskTwo();
+	//graphsAndTrees::taskThree();
+	//graphsAndTrees::taskFour();
+	//graphsAndTrees::taskFive();
+	//graphsAndTrees::taskSix();
+	//graphsAndTrees::taskSeven();
+	graphsAndTrees::taskEight();
+
+	//----------Bit manipulations------
+	//bitManipulation::test();
+
+	//-------------Moderate------------------
+	//moderate::taskOne();
 	//Break
 	int breakInt;
 	std::cin >> breakInt;

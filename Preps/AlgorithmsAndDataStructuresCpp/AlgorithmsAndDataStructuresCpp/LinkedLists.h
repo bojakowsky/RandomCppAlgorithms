@@ -3,6 +3,7 @@ namespace linkedLists
 {
 	void taskOne();
 	void taskTwo();
+	void taskTwoRecursive();
 	void taskThree();
 	void taskFour();
 	void taskFive();
