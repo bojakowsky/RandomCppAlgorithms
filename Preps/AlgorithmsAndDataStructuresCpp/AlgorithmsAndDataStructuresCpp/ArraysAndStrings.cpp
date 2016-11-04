@@ -13,7 +13,9 @@ namespace arraysAndString
 {
 	void mapExample() {
 		std::cout << "-- Map Example --" << std::endl;
-		std::map<char, int> map;
+		std::map<int, int> map1 = { { 1, 5 },{ 2, 6 } };
+		std::cout << "Key '1' value: " << map1[1] << std::endl;
+		std::map<char, int> map = { {'a', 5}, {'b', 6 } };
 		map.insert(std::pair<char, int>('c', 5));
 		map.insert(std::pair<char, int>('d', 6));
 		map['b'] = 4;
@@ -28,6 +30,8 @@ namespace arraysAndString
 
 		std::cout << "Key 'a' value: " << map['a'] << std::endl;
 		std::cout << "===" << std::endl;
+
+		
 	}
 
 	void setExample() {

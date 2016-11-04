@@ -9,6 +9,7 @@
 #include <set>
 #include <unordered_map>
 #include <stack>
+#include <list>
 namespace linkedLists
 {
 	template<class T> class smartNode
@@ -738,5 +739,15 @@ namespace linkedLists
 		list1->appendToTail(1);
 		std::cout << isPalindrome(list1) << std::endl;
 		std::cout << isPalRec(list1, getLength(list1)) << std::endl;
+	}
+
+	void simpleListTest()
+	{
+		std::list<int> lst = { 2, 1 };
+		if (1)
+			lst.begin();
+		if (2)
+			lst.end();
+
 	}
 }
