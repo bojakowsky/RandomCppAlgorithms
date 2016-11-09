@@ -13,6 +13,21 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Header Files\Others">
+      <UniqueIdentifier>{7c2b38da-aebd-4da1-9489-9db3de5c215d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Crack">
+      <UniqueIdentifier>{2ff910b7-1380-46ba-bfa7-623787731ae6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Others">
+      <UniqueIdentifier>{cef64860-78c0-427c-b767-16df7663553f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Crack">
+      <UniqueIdentifier>{7d79fb13-43ba-4b7d-aebb-03877d9c050a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\AlgoLeagueAug16">
+      <UniqueIdentifier>{138f59d3-8cd2-4330-aa89-5af7346784c7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -21,55 +36,70 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="ArraysAndStrings.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Others.h">
+      <Filter>Header Files\Others</Filter>
     </ClInclude>
-    <ClInclude Include="LinkedLists.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Others1.h">
+      <Filter>Header Files\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="ArraysAndStrings.h">
+      <Filter>Header Files\Crack</Filter>
     </ClInclude>
     <ClInclude Include="BitsManipulation.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="StackAndQueues.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\Crack</Filter>
     </ClInclude>
     <ClInclude Include="GraphsAndTrees.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\Crack</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedLists.h">
+      <Filter>Header Files\Crack</Filter>
     </ClInclude>
     <ClInclude Include="Moderate.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\Crack</Filter>
     </ClInclude>
-    <ClInclude Include="Others.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="StackAndQueues.h">
+      <Filter>Header Files\Crack</Filter>
+    </ClInclude>
+    <ClInclude Include="Others2.h">
+      <Filter>Header Files\Others</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Others.cpp">
+      <Filter>Source Files\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="Others1.cpp">
+      <Filter>Source Files\Others</Filter>
+    </ClCompile>
     <ClCompile Include="AlgorithmsAndDataStructuresCpp.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Crack</Filter>
     </ClCompile>
     <ClCompile Include="ArraysAndStrings.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="LinkedLists.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Crack</Filter>
     </ClCompile>
     <ClCompile Include="BitsManipulation.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="StacksAndQueues.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Crack</Filter>
     </ClCompile>
     <ClCompile Include="GraphsAndTrees.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Crack</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedLists.cpp">
+      <Filter>Source Files\Crack</Filter>
     </ClCompile>
     <ClCompile Include="Moderate.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Crack</Filter>
     </ClCompile>
-    <ClCompile Include="Others.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="StacksAndQueues.cpp">
+      <Filter>Source Files\Crack</Filter>
+    </ClCompile>
+    <ClCompile Include="aleague16aug.cpp">
+      <Filter>Source Files\AlgoLeagueAug16</Filter>
+    </ClCompile>
+    <ClCompile Include="Others2.cpp">
+      <Filter>Source Files\Others</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

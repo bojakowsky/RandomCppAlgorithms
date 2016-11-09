@@ -1,16 +1,13 @@
-﻿  Others.cpp
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others.cpp(86): warning C4018: '<': signed/unsigned mismatch
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others.cpp(127): warning C4018: '>=': signed/unsigned mismatch
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others.cpp(134): warning C4018: '>=': signed/unsigned mismatch
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others.cpp(161): warning C4018: '<': signed/unsigned mismatch
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others.cpp(177): warning C4018: '<': signed/unsigned mismatch
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others.cpp(191): warning C4018: '<': signed/unsigned mismatch
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others.cpp(206): warning C4018: '<': signed/unsigned mismatch
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others.cpp(212): warning C4018: '<': signed/unsigned mismatch
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others.cpp(420): warning C4018: '<': signed/unsigned mismatch
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others.cpp(435): warning C4018: '<': signed/unsigned mismatch
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others.cpp(441): warning C4018: '<': signed/unsigned mismatch
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others.cpp(118): warning C4715: 'Others::task1': not all control paths return a value
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others.cpp(397): warning C4715: 'simpleRecursion': not all control paths return a value
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others.cpp(258): warning C4715: 'findEvenFromEnd_Rec_Ret': not all control paths return a value
+﻿  Others2.cpp
+c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(180): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(183): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(194): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(196): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(271): warning C4018: '<': signed/unsigned mismatch
+c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(274): warning C4018: '<': signed/unsigned mismatch
+c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(282): warning C4018: '<': signed/unsigned mismatch
+c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(285): warning C4018: '<': signed/unsigned mismatch
+c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(347): warning C4018: '<': signed/unsigned mismatch
+c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(453): warning C4018: '<': signed/unsigned mismatch
+c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(523): warning C4018: '<': signed/unsigned mismatch
   AlgorithmsAndDataStructuresCpp.vcxproj -> C:\Users\BRZYDAL\Desktop\Random\Preps\AlgorithmsAndDataStructuresCpp\Debug\AlgorithmsAndDataStructuresCpp.exe
