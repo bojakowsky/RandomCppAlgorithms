@@ -63,6 +63,9 @@
     <ClInclude Include="Others2.h">
       <Filter>Header Files\Others</Filter>
     </ClInclude>
+    <ClInclude Include="Others3.h">
+      <Filter>Header Files\Others</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -99,6 +102,9 @@
       <Filter>Source Files\AlgoLeagueAug16</Filter>
     </ClCompile>
     <ClCompile Include="Others2.cpp">
+      <Filter>Source Files\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="Others3.cpp">
       <Filter>Source Files\Others</Filter>
     </ClCompile>
   </ItemGroup>

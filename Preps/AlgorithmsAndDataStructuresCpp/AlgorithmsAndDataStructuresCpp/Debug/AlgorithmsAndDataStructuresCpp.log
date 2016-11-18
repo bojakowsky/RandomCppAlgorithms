@@ -1,13 +1,4 @@
-﻿  Others2.cpp
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(180): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(183): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(194): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(196): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(271): warning C4018: '<': signed/unsigned mismatch
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(274): warning C4018: '<': signed/unsigned mismatch
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(282): warning C4018: '<': signed/unsigned mismatch
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(285): warning C4018: '<': signed/unsigned mismatch
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(347): warning C4018: '<': signed/unsigned mismatch
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(453): warning C4018: '<': signed/unsigned mismatch
-c:\users\brzydal\desktop\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others2.cpp(523): warning C4018: '<': signed/unsigned mismatch
-  AlgorithmsAndDataStructuresCpp.vcxproj -> C:\Users\BRZYDAL\Desktop\Random\Preps\AlgorithmsAndDataStructuresCpp\Debug\AlgorithmsAndDataStructuresCpp.exe
+﻿  Others3.cpp
+c:\users\warfury\documents\github\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others3.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\warfury\documents\github\random\preps\algorithmsanddatastructurescpp\algorithmsanddatastructurescpp\others3.cpp(74): warning C4101: 'res': unreferenced local variable
+  AlgorithmsAndDataStructuresCpp.vcxproj -> C:\Users\warfury\Documents\GitHub\Random\Preps\AlgorithmsAndDataStructuresCpp\Debug\AlgorithmsAndDataStructuresCpp.exe

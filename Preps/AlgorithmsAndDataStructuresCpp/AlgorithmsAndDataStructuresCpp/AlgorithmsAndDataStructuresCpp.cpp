@@ -14,7 +14,7 @@
 #include "time.h"
 #include <vector>
 #include "Others2.h"
-
+#include "Others3.h"
 
 #ifndef speedtest__             
 #define speedtest__   for (long blockTime = NULL; (blockTime == NULL ? (blockTime = clock()) != NULL : false); std::cout<< "\nTime: " << ((double) (clock() - blockTime) / CLOCKS_PER_SEC))
@@ -205,7 +205,9 @@ int main()
 	//Others2::task8();todo//tbd
 	//Others2::task9();
 	//Others2::task10();
-	Others2::task11();
+	//Others2::task11();
+
+	Others3::task1();
 	int breakInt;
 	std::cin >> breakInt;
     return 0;
